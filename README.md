@@ -16,12 +16,13 @@ Users should be able to:
 - Start and Stop the Timer
 - Click on the gear icon to change the length (minutes and seconds) for the timer.
 
-###Links
+##Links
 - Solution URL: https://github.com/mod771/PomodoroTimeChallenege 
 - Live Site URL: https://mod771.github.io/PomodoroTimeChallenege/ 
 
 ##My Process
-###Built With
+
+##Built With
 - HTML (provided by selfteach Advent of JavaScript)
 - CSS (provided by selfteach Advent of JavaScript)
 - JavaScript
@@ -33,7 +34,7 @@ Users should be able to:
         alert("Time's Up!");
     }
 
-###Author
+##Author
     HTML and CSS made for Adevent of JavaScript by Amy Dutton
     JavaScript by Paola Silva
 
