@@ -28,7 +28,9 @@ Users should be able to:
 - JavaScript
 
 ### What I learned
-    I learned about setInterval and setTimeout. The alert box with the timer was out would keep popping up before the ring circle would change color so had to put in a setTimeout so it would wait before popping up.
+    I learned about setInterval and setTimeout. 
+    The alert box with the timer was out would keep popping up before the 
+    ring circle would change color so had to put in a setTimeout so it would wait before popping up.
 
     setTimeout(function() { 
         alert("Time's Up!");
