@@ -17,8 +17,8 @@ Users should be able to:
 - Click on the gear icon to change the length (minutes and seconds) for the timer.
 
 ### Links
-- Solution URL: https://github.com/mod771/PomodoroTimeChallenege 
-- Live Site URL: https://mod771.github.io/PomodoroTimeChallenege/ 
+- Solution URL: https://github.com/paolas771/PomodoroTimeChallenege 
+- Live Site URL: https://paolas771.github.io/PomodoroTimeChallenege/
 
 ## My Process
 
